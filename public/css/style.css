@@ -1,0 +1,38 @@
+p {
+    margin: 10px 0 !important;
+}
+
+.login-container {
+    width: 400px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.fa-small {
+    font-size: 16px !important;
+}
+
+.btn-float {
+    float: left;
+    margin-right: 10px;
+}
+
+.img-small {
+    width:180px;
+}
+
+html, body {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+a.brand-logo.title{
+    font-family: 'Vend Sans', sans-serif; 
+    font-size: 2rem;                  
+    font-weight: bold;    
+    letter-spacing: 0.15em;                 
+    color: rgb(221, 229, 241);  
+    text-decoration: underline;
+}
